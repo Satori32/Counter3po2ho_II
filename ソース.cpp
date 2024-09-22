@@ -53,5 +53,20 @@ int main() {
 	std::cout << Do(C32) << std::endl;
 	std::cout << Do(C32) << std::endl;
 	std::cout << Do(C32) << std::endl;
+
+	std::cout <<"---------------" << std::endl;
+	ConstructCouter3po2poII(C32, 2, 3);
+
+	std::cout << Do(C32) << std::endl;
+	std::cout << Do(C32) << std::endl;
+	std::cout << Do(C32) << std::endl;
+	std::cout << Do(C32) << std::endl;
+	std::cout << Do(C32) << std::endl;
+
+	std::cout << Do(C32) << std::endl;
+	std::cout << Do(C32) << std::endl;
+	std::cout << Do(C32) << std::endl;
+	std::cout << Do(C32) << std::endl;
+	std::cout << Do(C32) << std::endl;
 	return 0;
 }
